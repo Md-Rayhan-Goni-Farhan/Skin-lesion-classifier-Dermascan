@@ -1,7 +1,6 @@
 # DermaScan 🔬
 
 A skin lesion classifier that runs completely offline on your PC. Drop in a dermoscopy image, get a malignant/benign prediction with confidence score in under 2 seconds. No internet, no GPU, no cloud — just a double-click.
-In easier terms, it detects Sudipta's Ass
 
 <p align="center">
   <img src="https://img.shields.io/badge/Accuracy-81.28%25-00c896?style=flat-square"/>
