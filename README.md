@@ -41,16 +41,16 @@ Built this because skin cancer is one of the most common cancers out there, and 
 
 | Image | Result | Confidence |
 |-------|--------|------------|
-| <img src="assets/malignant_1.jpg" width="160"/> | ⚠️ MALIGNANT | 73.0% |
-| <img src="assets/malignant_2.jpg" width="160"/> | ⚠️ MALIGNANT | 98.6% |
-| <img src="assets/malignant_3.jpg" width="160"/> | ⚠️ MALIGNANT | 63.1% |
+| <img src="assets/malignant_1.png" width="160"/> | ⚠️ MALIGNANT | 73.0% |
+| <img src="assets/malignant_2.png" width="160"/> | ⚠️ MALIGNANT | 98.6% |
+| <img src="assets/malignant_3.png" width="160"/> | ⚠️ MALIGNANT | 63.1% |
 
 **Benign detections:**
 
 | Image | Result | Confidence |
 |-------|--------|------------|
-| <img src="assets/benign_1.jpg" width="160"/> | ✅ BENIGN | 96.0% |
-| <img src="assets/benign_2.jpg" width="160"/> | ✅ BENIGN | 86.9% |
+| <img src="assets/benign_1.png" width="160"/> | ✅ BENIGN | 96.0% |
+| <img src="assets/benign_2.png" width="160"/> | ✅ BENIGN | 86.9% |
 
 ---
 
