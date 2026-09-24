@@ -1,6 +1,7 @@
 # DermaScan 🔬
 
 A skin lesion classifier that runs completely offline on your PC. Drop in a dermoscopy image, get a malignant/benign prediction with confidence score in under 2 seconds. No internet, no GPU, no cloud — just a double-click.
+In easier terms, you scan a picture of your affected area to check if its benign(harmless) or malignant(harmful, possible skin cancer/tumor). Note that it's accuracy might not always be fully correct, it is simply a checkup tool for getting a possibility percentage.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Accuracy-81.28%25-00c896?style=flat-square"/>
