@@ -29,7 +29,7 @@ First launch takes ~15 seconds while TensorFlow loads. After that it's instant.
 
 You give it a dermoscopy image of a skin lesion. It tells you whether it looks malignant or benign, and how confident it is. That's it.
 
-Built this because skin cancer is one of the most common cancers out there, and early detection is literally the difference between a quick removal and a serious problem. Dermatologists are expensive and not always accessible. A lightweight AI tool that can flag suspicious lesions for follow-up is genuinely useful — and this project proves it can run on a regular laptop with no internet required.
+I built this because skin cancer is one of the most common cancers out there, and early detection is literally the difference between a quick removal and a serious problem. Dermatologists are expensive and not always accessible. A lightweight AI tool that can flag suspicious lesions for follow-up is genuinely useful — and this project proves it can run on a regular laptop with no internet required.
 
 > ⚠️ Educational project only. Not a medical device. Always see a real dermatologist.
 
